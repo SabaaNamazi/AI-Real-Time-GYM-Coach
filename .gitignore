@@ -21,6 +21,3 @@ data.db
 
 # Logs
 *.log
-
-# Streamlit secrets
-.streamlit/config.toml
